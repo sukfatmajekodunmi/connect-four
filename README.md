@@ -1,4 +1,4 @@
-# connect-four
+# Connect Four
 A terminal game of connect four
 
 ## How to play
